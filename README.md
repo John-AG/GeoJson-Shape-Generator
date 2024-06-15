@@ -11,6 +11,7 @@ Make sure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.co
 1. Clone the repository:
 
    git clone https://github.com/John-AG/GeoJson-Shape-Generator.git
+
    cd GeoJson-Shape-Generator
 
 2. npm install
@@ -26,6 +27,9 @@ npm run tests
 ### Usage
 
 Open the application in your browser at http://localhost:8080/
+
 Click on which shape you want
+
 Copy the generated GeoJson
+
 Use the generated GeoJson at https://geojson.io/ to see your shape
